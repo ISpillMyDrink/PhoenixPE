@@ -35,7 +35,7 @@ Level=5
 Version=1.0.0.0
 Description=(v5.2 x86) Unstoppable Copier recovers files from disks with physical damage. It allows you to copy files from disks with problems such as bad sectors, scratches or that just give errors when reading data.
 Date=2020-01-30
-Selected=False
+Selected=True
 Mandatory=False
 
 [Variables]
@@ -160,7 +160,7 @@ btn_ScriptInfo=,1,8,601,5,25,25,ShowScriptInfo,Help_16.png,True,"__Script Info"
 bvl_RunFromRam=bvl_RunFromRam,1,12,5,50,133,25
 cb_RunFromRam="Run From RAM",1,3,12,54,100,18,False,"__When this option is enabled the program files will be stored in Boot.wim and loaded into memory on boot.#$x#$xYou should only select this option if you are booting from Read-Only media and your program requires write-access to the file system."
 bvl_Shortcuts=Shortcuts,1,12,5,90,133,184,8,Bold
-cb_DesktopShc=Desktop,1,3,12,104,122,18,False
+cb_DesktopShc=Desktop,1,3,12,104,122,18,True
 cb_StartMenuShc="Start Menu",1,3,12,123,122,18,True
 cb_PinToTaskbar="Pin to Taskbar",1,3,12,142,122,18,False
 cb_PinToStartMenu="Pin to Start Menu",1,3,12,161,122,18,False

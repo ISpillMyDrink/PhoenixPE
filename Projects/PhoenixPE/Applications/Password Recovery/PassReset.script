@@ -35,7 +35,7 @@ Level=5
 Version=1.0.0.0
 Description=(v5.1) PassReset is a light weight program for resetting Windows user passwords from within WinPE.
 Date=2020-01-29
-Selected=False
+Selected=True
 Mandatory=False
 
 [Variables]

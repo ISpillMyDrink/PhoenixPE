@@ -35,7 +35,7 @@ Level=5
 Version=1.0.2.0
 Description=(v7.4.3) LibreOffice is a free and powerful office suite.
 Date=2022-12-25
-Selected=False
+Selected=True
 Mandatory=False
 
 [Variables]

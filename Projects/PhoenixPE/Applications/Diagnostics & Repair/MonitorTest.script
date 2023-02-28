@@ -35,7 +35,7 @@ Level=5
 Version=1.0.0.0
 Description=(v2.0.0 x86) A lightweight program for testing your computer display using various patterns and motion parameters.
 Date=2022-12-30
-Selected=False
+Selected=True
 Mandatory=False
 
 [Variables]

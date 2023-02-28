@@ -35,7 +35,7 @@ Level=5
 Version=1.0.0.0
 Description=(v0.7) NTPWEdit is a password editor for Windows NT based systems that can change or remove passwords for local system accounts.
 Date=2020-01-29
-Selected=False
+Selected=True
 Mandatory=False
 
 [Variables]

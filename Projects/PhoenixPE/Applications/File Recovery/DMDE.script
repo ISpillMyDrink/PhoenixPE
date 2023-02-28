@@ -33,7 +33,7 @@ Title=DMDE
 Description=(v4.0.2.804) DMDE is a powerful software for data searching, editing, and recovery on disks. Features include disk editor, simple partition manager (e.g. allows partition undeleting), a tool to create disk images and clones, RAID constructor, and file recovery.
 Author=Homes32
 Level=5
-Selected=False
+Selected=True
 Mandatory=False
 Version=1.1.1.0
 Date=2023-01-30
@@ -260,7 +260,7 @@ btn_ScriptInfo=,1,8,601,5,25,25,ShowScriptInfo,Help_16.png,True,"__Script Info"
 bvl_RunFromRam=bvl_RunFromRam,1,12,5,50,133,25
 cb_RunFromRam="Run From RAM",1,3,12,54,100,18,False,"__When this option is enabled the program files will be stored in Boot.wim and loaded into memory on boot.#$x#$xYou should only select this option if you are booting from Read-Only media and your program requires write-access to the file system."
 bvl_Shortcuts=Shortcuts,1,12,5,90,133,184,8,Bold
-cb_DesktopShc=Desktop,1,3,12,104,122,18,False
+cb_DesktopShc=Desktop,1,3,12,104,122,18,True
 cb_StartMenuShc="Start Menu",1,3,12,123,122,18,True
 cb_PinToTaskbar="Pin to Taskbar",1,3,12,142,122,18,False
 cb_PinToStartMenu="Pin to Start Menu",1,3,12,161,122,18,False
@@ -271,7 +271,7 @@ lbl_Language=Language,1,1,159,110,153,16,8,Normal
 cmb_Language="English [en]",1,4,160,126,150,21,"Chinese (Simplified) [zh-cn]","English [en]","French [fr]","German [de]","Italian [it]","Persian [fa]","Polish [pl]","Portuguese (Brazil) [pt-br]","Portuguese (Portugal) [pt-pt]","Russian [ru]","Spanish [es]"
 lbl_ToolbarIcons="Toolbar Icons",1,1,160,160,176,16,8,Normal
 cmb_ToolbarIcons="2 - Medium Icons",1,4,160,175,150,21,"0 - No Icons","1 - Small Icons","2 - Medium Icons"
-cb_AcceptEULA="Accept EULA",1,3,160,215,178,18,False
+cb_AcceptEULA="Accept EULA",1,3,160,215,178,18,True
 cb_ShowHints="Show Step-by-Step Hints",1,3,160,235,177,18,False
 
 [InterfaceEncoded]

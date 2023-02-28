@@ -35,7 +35,7 @@ Level=5
 Version=1.0.0.0
 Description=(v1.3.3.2 2015.2.16.0) BOOTICE is a portable utility that allows you to manipulate the MBR or PBR of your disk. Partitions management, sector editing, backup and  restore operations are also supported.
 Date=2019-12-29
-Selected=False
+Selected=True
 Mandatory=False
 
 [Variables]

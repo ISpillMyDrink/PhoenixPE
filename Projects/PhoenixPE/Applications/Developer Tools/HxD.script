@@ -35,7 +35,7 @@ Level=5
 Version=1.0.1.0
 Description=HxD is a hex editor which can handle files of any size and can also perform raw disk editing and memory (RAM) modifications.
 Date=2023-01-10
-Selected=False
+Selected=True
 Mandatory=False
 
 [Variables]

@@ -33,7 +33,7 @@ Title=Recuva
 Description=(v1.53.x) Recuva recovers lost and deleted files from your hard-drive, recycle bin, digital camera card, or MP3 player!
 Author=Homes32
 Level=5
-Selected=False
+Selected=True
 Mandatory=False
 Version=1.0.1.0
 Date=2023-01-10
@@ -314,7 +314,7 @@ cmb_Language="English [1033]",1,4,160,126,150,21,"Albanian [1052]","Arabic [1025
 lbl_ViewMode="View Mode",1,1,159,155,153,16,8,Normal
 cmb_ViewMode="0 - List View",1,4,160,171,150,21,"0 - List View","1 - Tree View","2 - Thumbnails View","__Configure Recuva's file viewer mode"
 cb_RunWizard="Run Wizard on Startup",1,3,160,200,175,18,False,"__Toggle between wizard mode and standard mode."
-cb_ShellExt="Enable Shell Context Menu",1,3,160,225,177,18,True,"__Add Recuva to the recycle bin and folder context menus"
+cb_ShellExt="Enable Shell Context Menu",1,3,160,225,177,18,False,"__Add Recuva to the recycle bin and folder context menus"
 
 [InterfaceEncoded]
 play-hot.png=841,1220

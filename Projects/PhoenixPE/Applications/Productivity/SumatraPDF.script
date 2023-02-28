@@ -35,7 +35,7 @@ Level=5
 Version=1.0.4.2
 Description=(v3.4.6) Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
 Date=2022-07-17
-Selected=False
+Selected=True
 Mandatory=False
 
 [Variables]
