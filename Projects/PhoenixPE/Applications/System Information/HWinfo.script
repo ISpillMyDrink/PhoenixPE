@@ -35,8 +35,8 @@ Author=Homes32
 Level=5
 Selected=True
 Mandatory=False
-Version=1.0.13.0
-Date=2023-01-13
+Version=1.0.12.0
+Date=2023-02-26
 
 [Variables]
 %ProgramFolder%="HWinfo"
